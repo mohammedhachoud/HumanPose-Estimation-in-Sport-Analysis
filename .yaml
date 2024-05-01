@@ -1,0 +1,4 @@
+train: /Data/train/
+val: /Data/val/
+nc: 1  # number of classes
+names: ['Ass9']
